@@ -466,9 +466,12 @@ hr {
 }
 
 #fun {
-  color:#188b05;
   font-size: 3vw;
   line-height:95%;
+}
+
+#fun b {
+  color:#188b05;
 }
 
 .skill-area img {
