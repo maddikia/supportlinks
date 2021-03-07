@@ -1,7 +1,5 @@
 # [supportlinks](http://www.supportlinks.tech/)
 
-![logo](https://imgur.com/lZWEWKi)
-
 ## what is supportlinks?
 a fully anonymous, youth-focused support chatbot providing mental health resources and connecting users to peer support
 
@@ -24,4 +22,4 @@ we built link, our favorite chatbot, using Google Cloud’s **Dialogflow**, with
 our first steps will be to compile more mental health resources and better train **link** to identify causes; we will also want to incorperate specificity within broad categories, such as subsets of anxiety. next, will will expand our peer support network and build a connection platform specific to supportlinks to better preserve anonymity and allow for instantaneous, automatic connection. (our connect network is currently not automated and run through Google Forms but, with more time, we hope to use Flask and a database to store users; in addition to an anonymous text platform, we hope to also implement a Clubhouse-esque anonymous call platform.) 
 
 ## credits & acknowledgement
-the base of our website was developed with influence from [Stack Lite](https://onepagelove.com/stack-lite) and we sourced our landing page graphic from [unDraw](https://undraw.co/)). thank you to the organizing team, sponsors, and mentors for this amazing weekend. we want to especially thank our mentor, Ron, so much for all of his help throughout the weekend! 
+the base of our website was developed with influence from [Stack Lite](https://onepagelove.com/stack-lite) and we sourced our landing page graphic from [unDraw](https://undraw.co/). thank you to the organizing team, sponsors, and mentors for this amazing weekend. we want to especially thank our mentor, Ron, so much for all of his help throughout the weekend! 
