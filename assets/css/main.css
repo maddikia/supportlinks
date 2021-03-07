@@ -73,7 +73,7 @@ a:not([href]):not([tabindex]) {
 }
 
 #feature h3 {
-  font-size: 2vw;
+  font-size: 24px;
 }
 
 .feature-content p {
@@ -86,7 +86,7 @@ a:not([href]):not([tabindex]) {
 
 .section-title {
   font-size: 30px;
-  color: #222222;
+  color: #188b05;
   display: inline-block;
   font-weight: 700;
   text-transform: lowercase;
