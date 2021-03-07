@@ -1,7 +1,7 @@
 # [supportlinks](http://www.supportlinks.tech/)
 
 ## what is supportlinks?
-a fully anonymous, youth-focused support chatbot providing mental health resources and connecting users to peer support
+a fully anonymous, youth-focused support chatbot providing mental health resources and connecting users to peer support, developed for [TartanHacks 2021](https://tartanhacks.com/).
 
 ## get linked
 * express yourself anonymously & get **link**ed to mental health resources
